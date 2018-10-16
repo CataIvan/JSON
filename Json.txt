@@ -1,0 +1,6 @@
+{
+	"Nume":"asf",
+	"Varsta":34,
+	"Telefon":"45235",
+	"Adresa":"fgfgr"
+}
